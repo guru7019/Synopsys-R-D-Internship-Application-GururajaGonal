@@ -2,7 +2,7 @@
 Application for the R&amp;D Engineering Internship at Synopsys (Noida Office) – includes my profile, resume, relevant skills, and projects in Digital Design and verification. Contains a write-up on why I am a strong fit for the role.
 
 ## About Me
-I am an Electronics and Communication Engineering undergraduate (2025 graduate) specializing in Digital Design and Verification, with strong skills in RTL design, SystemVerilog, UVM, and embedded systems. I have hands-on experience in building constrained-random verification environments and debugging at both RTL and gate levels.
+I am an Electronics and Communication Engineering undergraduate (2025 graduate) and a PG Diploma holder in VLSI from IIIT-Bangalore, specializing in Digital Design and Verification, with strong skills in RTL design, SystemVerilog, UVM, and embedded systems. I have hands-on experience in building constrained-random verification environments and debugging at both RTL and gate levels.
 
 ## Why I Am a Good Fit
 - Strong foundation in Digital and Analog electronics, ASIC design flow, FSM, and STA.
