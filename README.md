@@ -25,6 +25,7 @@ I am an Electronics and Communication Engineering undergraduate (2025 graduate) 
 - **Double Gate Double Material TFET for Biosensing** – TCAD-based cancer detection device simulation.
 
 ## Contact
+- Phone: +91 7019179094
 - Email: gururajagonal@gmail.com
 - LinkedIn: [linkedin.com/in/gururaja-gonal-68852425a](https://linkedin.com/in/gururaja-gonal-68852425a)
 - GitHub: [github.com/guru7019](https://github.com/guru7019)
