@@ -28,3 +28,6 @@ I am an Electronics and Communication Engineering undergraduate (2025 graduate) 
 - Email: gururajagonal@gmail.com
 - LinkedIn: [linkedin.com/in/gururaja-gonal-68852425a](https://linkedin.com/in/gururaja-gonal-68852425a)
 - GitHub: [github.com/guru7019](https://github.com/guru7019)
+
+Please find my Resume in the Resume folder above.
+Thank you.
